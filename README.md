@@ -14,5 +14,9 @@ The following pretrained models are used to predict the emotion of song based on
 - BERT
 - OpenAI GPT-3
 
-
+## Data visualizations
 ![Untitled 2](https://github.com/deekshachilukuri31/Predicting-Emotion-of-Spotify-song-using-NLTK-and-Pyspark/assets/112019616/baf786c3-3755-487c-9de1-930966e7045a)
+
+## OUTPUT
+
+<img width="1461" alt="Untitled" src="https://github.com/deekshachilukuri31/Predicting-Emotion-of-Spotify-song-using-NLTK-and-Pyspark/assets/112019616/e0abe72e-5e6a-45ea-a531-84b91f981ba7">
